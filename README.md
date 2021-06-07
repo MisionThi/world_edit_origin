@@ -6,5 +6,5 @@
 
 
 ### Action selecting
-- [ ] Right click to go up on the resource.
-- [ ] Right click to go down on the resource.
+- [ ] Right click the stick to go up on the resource.
+- [ ] Left click the stick to go down on the resource.
