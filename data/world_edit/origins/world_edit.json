@@ -1,7 +1,7 @@
 {
     "powers": [
-			"world_edit:stick_use",
-			"world_edit:selector"
+			"world_edit:power_selection/stick_use",
+			"world_edit:power_selection/selector"
     ],
     "icon": "minecraft:grass_block",
     "order": 4,
